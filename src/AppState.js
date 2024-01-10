@@ -12,6 +12,6 @@ export const AppState = reactive({
   activeCar: null,
   houses: [],
   activeHouse: [],
-  job: [],
+  jobs: [],
   activeJob: [],
 })

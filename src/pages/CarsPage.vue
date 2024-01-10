@@ -57,7 +57,7 @@ export default {
     cars: computed(()=> AppState.cars),
     account: computed(()=> AppState.account),
     activeCar: computed(()=> AppState.activeCar)
-   }
+    }
   },
   components: { CarCard, CarForm, ModalWrapper }
 };
